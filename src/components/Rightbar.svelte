@@ -8,7 +8,7 @@
     <hr>
     <h4>Contact Me</h4>
 
-    <p>Feel free to contact me by the following ways:</p>
+    <p>Contact me by the following ways &#128512:</p>
     <ul class="list-group">
         <!-- <li class="list-group-item">Email: diyi93@outlook.com</li> -->
         <li class="list-group-item list-group-item-light" >
@@ -16,15 +16,6 @@
         <li class="list-group-item list-group-item-light">
             Github: <a href="https://github.com/thefriedbee/">thefriedbee</a> </li>
         <!-- <li class="list-group-item">Bilibili: <a href="https://github.com/thefriedbee/">thefriedbee</a> </li> -->
-    </ul>
-
-    <hr>
-    <h4>Papers & Reports:</h4>
-    <ul class="list-group">
-        <li class="list-group-item list-group-item-light">Paper 1</li>
-        <li class="list-group-item list-group-item-light">Paper 2</li>
-        <li class="list-group-item list-group-item-light">Paper 3</li>
-        <li class="list-group-item list-group-item-light">Paper 4</li>
     </ul>
 
     <hr>
